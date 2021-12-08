@@ -37719,6 +37719,24 @@
         "twitter": "https://twitter.com/bonzos_nft",
         "website": "https://thebonzos.xyz"
       }
+    },
+	{
+      "chainId": 101,
+      "address": "Fv3ZG56M2cWvF8sy9VWzWyvtHPhugNc1BAzpyoAPvL7r",
+      "symbol": "Solana Nut",
+      "name": "SOLNUT",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fv3ZG56M2cWvF8sy9VWzWyvtHPhugNc1BAzpyoAPvL7r/solnut.png",
+      "tags": [
+        "memes",
+        "nft",
+        "defi"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solananut",
+        "twitter": "https://twitter.com/Solana_Nut",
+        "website": "https://solananut.com"
+      }
     }
   ],
   "version": {
